@@ -1,0 +1,41 @@
+.content {
+    border :7px solid rgb(253, 253, 253);
+    box-shadow: 0 4px 8px 0 rgb(110, 110, 108), 0 6px 20px 0 rgb(134, 132, 132);
+    position: absolute;
+      top: 35%;
+      left: 60%;
+      margin-right: -50%;
+    padding: 30px;
+    background-color: #fcfcfc;
+    height:250px;
+    width:450px;
+    border-radius: 0;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(5, 3, 3);
+  }
+   .img{
+    padding: 5px;
+    position: absolute; 
+    top:0%;
+      left: 0%;
+      margin-right: -50%;
+
+  }
+  .content1{
+    padding: 5px;
+    position: absolute;
+    top:10%;
+      left: 5%;
+      margin-right: -50%;
+      font-size: calc(5px + 2vmin);
+      color: rgb(0, 0, 0);
+  }
+
+  .input_box{
+    border-top: 0;
+    border-left: none;
+    border-right: none;
+  }
